@@ -9,3 +9,9 @@ cd phenix-manager
 npm install
 npm start
 ```
+
+# .env file
+## You need to make a .env file with the following variables to use the bot
+```env
+token=REALLY_LONG_DISCORD_TOKEN_GOES_HERE
+```
